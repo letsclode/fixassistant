@@ -1,0 +1,254 @@
+[
+  {
+   "language" : {
+    "en" : 
+                {
+                  "p1.1": "Welcome",
+                  "p1.2": "We keep everything organized for you\nglad your here!",
+                  "p1.3" :"Email",
+                  "p1.4" : "Password",
+                  "p1.5" : "Or signup using social accounts",
+                  "p1.6" : "Dont have an account yet?",
+                  "p1.7" : " Register",
+                  "p1.8" : "Login",
+                  "p1.9" : "Select an option",
+                  "p1.10" : "Select Preferred Language",
+                  "p1.11" : "Warning",
+                  "p1.12" : "No budget is created",
+                  "p1.13" : "Are you sure you want to delete this budget",
+                  "p1.14" : "Cancel",
+                  "p1.15" : "Update",
+                  "p1.16" : "Registration Successful",
+
+                  "p2.1": "Let’s get Started!",
+                  "p2.2": "Create an account to be able to sync\nyour data to your device",
+                  "p2.3" :"Confirm password",
+                  "p2.4" : "Already have an account?",
+                  "p2.5" : "$",
+                  "p2.6" : "Social media account",
+
+                  "p3.1" : "Step",
+                  "p3.2" : "Protect your app\nwith your fingerprint ID",
+                  "p3.3" : "Use your touch ID for faster, safer & easier\naccess to your account",
+                  "p3.4" : "Setup",
+                  "p3.5" : "Skip",
+                  "p3.6" : "Save code",
+
+                  "p4.1" : "Receive / Payment Methods",
+                  "p4.2" : "Cash",
+                  "p4.3" : "Salary",
+                  "p4.4" : "Continue",
+                  "p4.5" : "Bank",
+                  "p4.6" : "Add receice/payment category",
+                  "p4.6.1" : "Add income category",
+                  "p4.6.2" : "Add expense category",
+                  "p4.7" : "This will be added to the default category",
+                  "p4.8" : "Title",
+                  "p4.9" : "Save",
+                  "p4.10" : "Value",
+                  "p4.11" : "Rent",
+                  "p4.12" : "Shopping",
+
+                  "p5.1" : "Sales",
+                  "p5.2" : "Family",
+                  "p5.3" : "Income categories",
+                  "p5.4" : "Add",
+                  "p5.5" : "Edit Category",
+                  "p5.6" : "Income",
+
+                  "p6.1" : "Expense",
+                  "p6.2" : "Expense categories",
+                  "p6.3" : "Food",
+
+                  "p7.1" : "Welcome",
+                  "p7.2" : "Monthly",
+                  "p7.3" : "Weekly",
+                  "p7.4" : "One-off",
+                  "p7.5" : "Trimester",
+                  "p7.6" : "Semester",
+                  "p7.7" : "Starting Date",
+                  "p7.8" : "Title",
+                  "p7.9" : "What will you do with the money at the end of the period?",
+                  "p7.10" : "Save it for the next period",
+                  "p7.11" : "Nothing, start a new period",
+                 
+               
+                  "p7.13" : "Let’s start by creating your first budget",
+                  "p7.14" : "back",
+
+                  "p8.1" : "My budgets",
+                  "p8.2" : "Budget",
+                  "p9.1" : "Today",
+                  "p9.2" : "for week",
+                  "p9.3" : "Status",
+                  "p9.4" : "Add expense",
+                  "p9.5" : "Add income",
+                  "p9.6" : "Recurrent",
+
+                  "p10.1" : "Account",
+                  "p10.2" : "Security",
+                  "p10.3" : "App",
+                  "p10.4" : "Settings",
+                  "p10.5" : "logout",
+
+                  "p11.1" : "Fingerprint setup",
+                  "p11.2" : "Pin setup",
+                  "p11.3" : "Set Pin",
+                  "p11.4" : "This serves as your security pin when\nyour touch ID fails.",
+                  "p11.5" : "Dark Mode",
+                  "p11.6" : "Income",
+                  "p11.7" : "On this period",
+                  "p11.8" : "Language",
+                  "p11.9" : "Expense",
+                  "p11.10" : "Categories",
+
+                  "p12.1" : "Invalid Email",
+                  "p12.2" : "Password Mismatch",
+                  "p12.3" : "Fill all fields",
+                  "p12.4" : "Succesfuly Added",
+                  "p12.5" : "No Account Found",
+                  "p12.6" : "Successfully deleted",
+
+                  "p13.1" : "Monday",
+                  "p13.2" : "Tuesday",
+                  "p13.3" : "Wednesday",
+                  "p13.4" : "Thursday",
+                  "p13.5" : "Friday",
+                  "p13.6" : "Saturday",
+                  "p13.7" : "Sunday"
+
+                },
+              
+    "fr" : 
+      {
+                  "p1.1": "Bienvenue",
+                  "p1.2": "Nous gardons tout organisé pour vous,\n heureux que vous soyez ici",
+                  "p1.3" :"Email",
+                  "p1.4" : "Mot de passe",
+                  "p1.5" : "Ou connectez vous grâce à vos comptes",
+                  "p1.6" : "Vous n’avez pas de compte ?",
+                  "p1.7" : " Créez un compte",
+                  "p1.8" : "S’identifier",
+                  "p1.9" : "Choisir une option",
+                  "p1.10" : "Langue préférée",
+                  "p1.11" : "Attention",
+                  "p1.12" : "Créez d'abord le budget",
+                  "p1.13" : "Etes-vous sûr de vouloir supprimer ce budget ?",
+                  "p1.14" : "Annuler",
+                  "p1.15" : "Valider",
+                  "p1.16" : "Création de compte effectuée",
+
+                  "p2.1": "Débutons ensemble !",
+                  "p2.2": "Créez un compte pour nous permettre\nde synchroniser vos données",
+                  "p2.3" :"Confirmation mot de passe",
+                  "p2.4" : "Vous avez déjà un compte ?",
+                  "p2.5" : "€",
+                  "p2.6" : "Compte de médias sociaux",
+
+                  "p3.1" : "Etape",
+                  "p3.2" : "Protégez votre application avec votre empreinte",
+                  "p3.3" : "Utilisez Touch ID pour un accès simplifié et sécurisé\nà l’application",
+                  "p3.4" : "Configurer",
+                  "p3.5" : "Passer",
+                  "p3.6" : "Enregistrer le code",
+
+                  "p4.1" : "Méthodes de payement/recevoir",
+                  "p4.2" : "Liquide",
+                  "p4.3" : "Salaire",
+                  "p4.4" : "Continuer",
+                  "p4.5" : "Banque",
+                  "p4.6" : "catégorie",
+                  "p4.7" : "Cela sera ajouté à la catégorie par défaut",
+                  "p4.8" : "Titre",
+                  "p4.9" : "Sauvegarder",
+                  "p4.10" : "Valeur",
+                  "p4.11" : "Loyer",
+                  "p4.12" : "Achats",
+
+                  "p5.1" : "Ventes",
+                  "p5.2" : "Famille",
+                  "p5.3" : "Catégories (revenu)",
+                  "p5.4" : "Ajouter",
+                  "p5.5" : "Modifier la catégorie",
+                  "p5.6" : "Revenu",
+
+                  "p6.1" : "Dépense",
+                  "p6.2" : "Catégories (dépense)",
+                  "p6.3" : "Courses",
+
+                  "p7.1" : "Bienvenue",
+                  "p7.2" : "Mensuel",
+                  "p7.3" : "Hebdomadaire",
+                  "p7.4" : "Sans récurrence",
+                  "p7.5" : "Trimestriel",
+                  "p7.6" : "Semestriel",
+                  "p7.7" : "Date de début",
+                  "p7.8" : "Titre",
+                  "p7.9" : "Que devons-nous faire du solde en fin de période ?",
+                  "p7.10" : "Le reporter sur la période suivante",
+                  "p7.11" : "Rien, je verrais ce que je fais du solde",
+                 
+                  "p7.13" : "Commençons en créant votre premier budget",
+                  "p7.14" : "Retour",
+
+                  "p8.1" : "Mes budgets",
+                  "p8.2" : "budget",
+
+                  "p9.1" : "Aujourd’hui",
+                  "p9.2" : "Pour la semaine",
+                  "p9.3" : "Statut",
+                  "p9.4" : "Dépense",
+                  "p9.5" : "Revenu",
+                  "p9.6" : "Récurrente",
+
+                  "p10.1" : "Compte",
+                  "p10.2" : "Sécurité",
+                  "p10.3" : "Application",
+                  "p10.4" : "Réglages",
+                  "p10.5" : "Se déconnecter",
+
+                  "p11.1" : "Configuration de l’empreinte",
+                  "p11.2" : "Configuration du code",
+                  "p11.3" : "Saisir le code",
+                  "p11.4" : "Nous l’utiliserons si le fonctionnement\navec l’empreinte échoue",
+                  "p11.5" : "Mode sombre",
+                  "p11.6" : "Récurrent",
+                  "p11.7" : "Cette période",
+                  "p11.8" : "Langue",
+                  "p11.9" : "Récurrentes",
+                  "p11.10" : "Catégories",
+
+                  "p12.1" : "Invalide Email",
+                  "p12.2" : "Mot de passe ne correspond pas",
+                  "p12.3" : "Remplissez tous les champs",
+                  "p12.4" : "Ajouté avec succès",
+                  "p12.5" : "Pas de compte",
+                  "p12.6" : "Supprimé avec succès",
+
+                  "p13.1" : "Lundi",
+                  "p13.2" : "Mardi",
+                  "p13.3" : "Mercredi",
+                  "p13.4" : "Jeudi",
+                  "p13.5" : "Vendredi",
+                  "p13.6" : "Samedi",
+                  "p13.7" : "Dimanche"
+      }
+   }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

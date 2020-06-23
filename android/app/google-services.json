@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721256324094",
+    "firebase_url": "https://myassistant-aa24e.firebaseio.com",
+    "project_id": "myassistant-aa24e",
+    "storage_bucket": "myassistant-aa24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721256324094:android:b76c38dbdccaca6c4efeaf",
+        "android_client_info": {
+          "package_name": "com.ohm.myassistantv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721256324094-ltqjrioms9pva3mb14jvcpmtmosbvdqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvCHiN16FyqUdAwiUXq5Jh5vxa4HS9t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721256324094-ltqjrioms9pva3mb14jvcpmtmosbvdqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721256324094-cfg9i9q19h91hhvvjhau74fkftc4f23b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ohm.myassistantv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
